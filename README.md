@@ -23,6 +23,10 @@
 # When we click on + button in right of select  then it formed textarea tag with a delete  button.
 # ![Screenshot 2024-10-04 143352](https://github.com/user-attachments/assets/3decc557-de21-452a-b718-07a589fe867e)
 
+# Full Show of the UI when we click all of three tags button
+# ![Screenshot 2024-10-04 150604](https://github.com/user-attachments/assets/ac588350-b5f7-42e0-a037-ee7bf12cd043)
+
+
 # When we click on delete button then it remove tag from the UI.
 
 # When we click on Save button in Navbar then the tag data should saved in console in the browser in JSON format.
