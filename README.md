@@ -8,10 +8,11 @@
 # [Deployed Link](https://dynamicformdesigner.netlify.app/)
 
 # Folder Structure
-# ![Screenshot 2024-10-04 145315](https://github.com/user-attachments/assets/2406ab5d-cc3d-4695-8b5a-ce8e53d0ad9f)
+# ![Screenshot 2024-10-04 145315](https://github.com/user-attachments/assets/2406ab5d-cc3d-4695-8b5a-ce8e53d0ad9f
 
 # Home Page of this assignment
-# ![Screenshot 2024-10-03 173206](https://github.com/user-attachments/assets/cf467f92-fa37-4e1e-81eb-582a3475a578)
+# ![Screenshot 2024-10-04 143300](https://github.com/user-attachments/assets/d3651b90-7ef3-4860-87b3-f36f6e3f1b90)
+
 
 # When we click on + button in right of input then it formed input tag with label Sample Label with a delete  button.
 # ![Screenshot 2024-10-04 143332](https://github.com/user-attachments/assets/daf1af53-75fd-4041-8c7a-0dfa45c0f55e)
